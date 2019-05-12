@@ -1,0 +1,1 @@
+Server and clinet in c  using pthreads
