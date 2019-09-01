@@ -1,2 +1,2 @@
 # C
-c code
+C code
